@@ -1,10 +1,10 @@
 # Aprendizaje Automático
 
-Repositorio de prácticas desarrolladas en el marco del estudio de Machine Learning, complementando la *Machine Learning Specialization* de DeepLearning.AI y Stanford Online (Andrew Ng).
+Repositorio de prácticas desarrolladas para la asignatura de Aprendizaje Automático en la Universidad de Las Palmas de Gran Canaria (ULPGC).
 
 ## 📋 Descripción
 
-Este repositorio recoge un conjunto de prácticas centradas en la implementación y experimentación con distintos algoritmos de aprendizaje automático, incluyendo modelos de regresión, clasificación y redes neuronales, aplicados sobre conjuntos de datos reales.
+Este repositorio recoge un conjunto de prácticas realizadas como trabajo académico para la asignatura, centradas en la implementación y experimentación con distintos algoritmos de aprendizaje automático, incluyendo modelos de regresión, clasificación y redes neuronales, aplicados sobre conjuntos de datos reales.
 
 ## 📂 Contenido
 
@@ -23,6 +23,14 @@ Este repositorio recoge un conjunto de prácticas centradas en la implementació
 
 - [Javier González Benítez](https://github.com/)
 - [Jorge González Benítez](https://github.com/jorgegonzalezbenitez)
+
+## 🎓 Contexto académico
+
+Trabajo realizado en el marco de la asignatura **Aprendizaje Automático**, Universidad de Las Palmas de Gran Canaria (ULPGC).
+
+## 📌 Complemento práctico
+
+Como complemento a la *Machine Learning Specialization* (DeepLearning.AI / Stanford Online), este repositorio recopila distintas prácticas sobre redes neuronales y otros algoritmos de aprendizaje automático realizadas durante el curso. Os invitamos a echarle un vistazo.
 
 ## 📜 Licencia
 
