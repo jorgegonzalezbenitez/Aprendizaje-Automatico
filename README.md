@@ -1,37 +1,28 @@
-# Aprendizaje Automático
+# Aprendizaje Automático con Redes Neuronales
 
-Repositorio de prácticas desarrolladas para la asignatura de Aprendizaje Automático en la Universidad de Las Palmas de Gran Canaria (ULPGC).
+Repositorio de prácticas centradas en la implementación y experimentación con algoritmos de machine learning aplicados sobre conjuntos de datos reales. El trabajo cubre el ciclo completo de un proyecto de ML: desde el análisis exploratorio y la preparación de datos hasta el entrenamiento, evaluación y comparación de modelos.
 
-## 📋 Descripción
+---
 
-Este repositorio recoge un conjunto de prácticas realizadas como trabajo académico para la asignatura, centradas en la implementación y experimentación con distintos algoritmos de aprendizaje automático, incluyendo modelos de regresión, clasificación y redes neuronales, aplicados sobre conjuntos de datos reales.
+## Contenido
 
-## 📂 Contenido
+**Práctica 1 — Modelos de regresión**
+Implementación de modelos de regresión supervisada sobre datasets reales. Análisis del ajuste del modelo, evaluación mediante métricas (MSE, RMSE, R²) y experimentación con distintos niveles de regularización e hiperparámetros.
 
-- **Practica1** — Implementación y análisis de modelos de regresión.
-- **Practica2** — Algoritmos de clasificación y evaluación de modelos.
-- **Practica3** — Redes neuronales: diseño, entrenamiento y evaluación.
-- **EnlaceKaggle.txt** — Enlace al dataset utilizado en las prácticas, obtenido de Kaggle.
+**Práctica 2 — Algoritmos de clasificación**
+Implementación y comparación de algoritmos de clasificación supervisada. Evaluación mediante matrices de confusión, accuracy, precisión, recall y F1-score. Análisis del impacto de distintas configuraciones sobre el rendimiento final.
 
-## 🛠️ Tecnologías
+**Práctica 3 — Redes neuronales**
+Diseño, entrenamiento y evaluación de redes neuronales con TensorFlow y Keras. Experimentación con distintas arquitecturas, funciones de activación, optimizadores y técnicas de regularización. Análisis de curvas de aprendizaje y comparación de resultados.
 
-- Python
-- Jupyter Notebook
-- Librerías habituales del ecosistema de Machine Learning (NumPy, Pandas, scikit-learn, TensorFlow/Keras, según práctica)
+---
 
-## 👥 Autores
+## Tecnologías
 
-- [Javier González Benítez](https://github.com/)
-- [Jorge González Benítez](https://github.com/jorgegonzalezbenitez)
+Python · Jupyter Notebook · NumPy · pandas · scikit-learn · TensorFlow · Keras · Matplotlib
 
-## 🎓 Contexto académico
+---
 
-Trabajo realizado en el marco de la asignatura **Aprendizaje Automático**, Universidad de Las Palmas de Gran Canaria (ULPGC).
+## Dataset
 
-## 📌 Complemento práctico
-
-Como complemento a la *Machine Learning Specialization* (DeepLearning.AI / Stanford Online), este repositorio recopila distintas prácticas sobre redes neuronales y otros algoritmos de aprendizaje automático realizadas durante el curso. Os invitamos a echarle un vistazo.
-
-## 📜 Licencia
-
-Este proyecto se distribuye con fines educativos.
+Los conjuntos de datos utilizados en las prácticas provienen de Kaggle. El enlace de acceso está disponible en el archivo `EnlaceKaggle.txt` del repositorio.
